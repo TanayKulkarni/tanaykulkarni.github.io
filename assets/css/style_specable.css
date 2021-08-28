@@ -297,10 +297,10 @@
 
 }
 
-.navbar a:hover:before, .navbar li:hover > a:before, .navbar .active:before {
-  visibility:inherit;
+/* .navbar a:hover:before, .navbar li:hover > a:before, .navbar .active:before {
+  visibility:unset;
   width: 100%;
-}
+} */
 
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
   color: rgb(27, 26, 26);
